@@ -20,8 +20,11 @@ Intent intent = new Intent(Intent.ACTION_REBOOT);
 注册一广播并设置开机启动android.intent.action.BOOT_COMPLETED
 
 最后加上系统权限
-  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" ></uses-permission>
-    <uses-permission android:name="android.permission.REBOOT" ></uses-permission>
+
+android.permission.RECEIVE_BOOT_COMPLETED
+
+android.permission.REBOOT
+ 
 
 
 自动化测试不是问题，方法总比困难多！
