@@ -2,7 +2,9 @@
 在做测试时，手动开关机是一个繁琐的过程，那么为了方便测试人员针对ANDROID设备进行开关机测试
 
 重启核心代码：
+
 Intent intent = new Intent(Intent.ACTION_REBOOT); 
+
 
 					intent.setAction(Intent.ACTION_REBOOT); 
 					
