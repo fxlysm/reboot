@@ -3,11 +3,17 @@
 
 重启核心代码：
 Intent intent = new Intent(Intent.ACTION_REBOOT); 
+
 					intent.setAction(Intent.ACTION_REBOOT); 
+					
 					intent.putExtra("nowait", 1); 
+					
 					intent.putExtra("interval", 1); 
+					
 					intent.putExtra("window", 0); 
+					
 					sendBroadcast(intent); 
+					
 					
 注册一广播并设置开机启动android.intent.action.BOOT_COMPLETED
 
