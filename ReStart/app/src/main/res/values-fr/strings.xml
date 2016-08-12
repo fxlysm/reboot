@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Redémarrer Test</string>
+    <string name="action_settings">Installer</string>
+    <string name="menu_about">Sûr</string>
+    <string name="menu_laguage">La langue</string>
+    <string name="pls_input_count">S\'il vous plaît entrez le nombre de pistes (non vide)</string>
+    <string name="remaining_count_running_count">100</string>
+    <string name="restart_count_running">Redémarrer Count</string>
+    <string name="restart_to_power">Redémarrer de stress Outils de test</string>
+    <string name="settings_count_number">Le nombre total de pistes:%1$d</string>
+    <string name="time_min">Min</string>
+    <string name="title_activity_main_ui">L\'interface principale</string>
+    <string name="total_restart_count">Le nombre total de redémarrages</string>
+</resources>

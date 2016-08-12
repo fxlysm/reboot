@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">重启压力测试</string>
+    <string name="action_settings">设置</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_laguage">语言</string>
+    <string name="pls_input_count">请输入运行次数（不能为空）</string>
+    <string name="restart_count_running">重启次数：</string>
+    <string name="restart_to_power">重启压力测试工具</string>
+    <string name="settings_count_number">总运行次数：%1$d</string>
+    <string name="time_min">分钟</string>
+    <string name="title_activity_main_ui">主界面</string>
+    <string name="total_restart_count">总重启次数</string>
+    <string name="remaining_count_running_count">100</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReStart Test</string>
+    <string name="total_restart_count">O número total de reinicializações</string>
+    <string name="time_min">Min</string>
+    <string name="title_activity_main_ui">a interface principal</string>
+    <string name="settings_count_number">O número total de corridas:%1$d</string>
+    <string name="restart_to_power">Teste de estresse Restart</string>
+    <string name="restart_count_running">Contagem de reinicialização:</string>
+    <string name="remaining_count_running_count">100</string>
+    <string name="pls_input_count">Por favor, indique o número de execuções (não vazia)</string>
+    <string name="menu_laguage">idioma</string>
+    <string name="menu_about">em</string>
+    <string name="action_settings">Estabelecer</string>
+</resources>

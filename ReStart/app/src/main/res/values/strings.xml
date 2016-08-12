@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ReStart Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_ui">MainUI</string>
+    <string name="restart_to_power">ReStart Tools</string>
+    <string name="restart_count_running">Reboot count:</string>
+    <string name="remaining_count_running_count">100</string>
+    <string name="total_restart_count">Total Restart Count:</string>
+    <string name="time_min">Min</string>
+    <string name="pls_input_count">Please input run count</string>
+    <string name="settings_count_number">Total Running Count:%1$d</string>
+    <string name="menu_laguage">Laguage</string>
+    <string name="menu_about">About</string>
+</resources>
