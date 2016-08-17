@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Redémarrer Test</string>
+    <string name="action_settings">Installer</string>
+    <string name="menu_about">Sûr</string>
+    <string name="menu_laguage">La langue</string>
+    <string name="pls_input_count">S\'il vous plaît entrez le nombre de pistes (non vide)</string>
+    <string name="remaining_count_running_count">100</string>
+    <string name="restart_count_running">Redémarrer Count</string>
+    <string name="restart_to_power">Redémarrer de stress Outils de test</string>
+    <string name="settings_count_number">Le nombre total de pistes:%1$d</string>
+    <string name="time_min">Min</string>
+    <string name="title_activity_main_ui">L\'interface principale</string>
+    <string name="total_restart_count">Le nombre total de redémarrages</string>
+    <string name="menu_share">Partager</string>
+    <string name="version_name">V</string>
+    <string name="about_qq">814380399</string>
+    <string name="about_email">lambert.liu</string>
+    <string name="menu_canncel">Annuler</string>
+    <string name="menu_close">Fermer</string>
+    <string name="menu_guide">Mode d\'emploi</string>
+    <string name="menu_more">Plus</string>
+    <string name="menu_warm">Chaud</string>
+    <string name="navigation_drawer_close">Fermer la navigation tiroir</string>
+    <string name="navigation_drawer_open">Ouvrez le tiroir de navigation</string>
+    <string name="nemu_confirm">Confirmer</string>
+    <string name="network_notwork">Réseau est désactivé, Réglage maintenant?</string>
+    <string name="network_setting">Paramètres réseau</string>
+    <string name="qq_app_check">Dispositif Vous installez pas QQ, Pls télécharger sur l\'App Store et essayez à nouveau.</string>
+    <string name="sent_to">par l\'intermédiaire de</string>
+    <string name="time_interval">Redémarrer Intervalle</string>
+    <string name="time_seconds">S</string>
+    <string name="title_activity_main">MainUI</string>
+    <string name="warm_message">Si le besoin de continuer à courir, pls institué exécuter count config dans l\'écran de réglage. puis essayez à nouveau.</string>
+    <string name="apply_for_permission">Cette APP doit demander État de téléphone et d\'écriture de stockage externe</string>
+    <string name="about_text"><b> Cette application utilisant processus système </b> <i> android:. SharedUserId = "android.uid.system" </i> <b> donc nous avons besoin de l\'aide de la clé du système </b> \n <b> Après votre téléphone poer sur, le système exécutant le test en BroadcastReceiver. </b> <i> intent.getAction (). equals (android.intent.action.BOOT_COMPLETED) </i> \n <b> Cette application permission à l\'aide de l\'utilisateur </b> "<i> android.permission.RECEIVE_BOOT_COMPLETED </i>" <b> et </b> <i> android.permission.REBOOT </i></string>
+    <string name="help_dialog_text"><b> accéder à cet écran, les outils est en marche pour redémarrer que l\'utilisation de jeu par défaut </b> \n \n <b> Si vous avez des questions, s\'il vous plaît contactez-moi! </b> \n \n <i> Email : lambert.liu@nf-technology.com </i></string>
+</resources>

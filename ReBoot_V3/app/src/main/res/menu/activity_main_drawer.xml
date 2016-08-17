@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/action_settings" />
+        <!--<item-->
+            <!--android:id="@+id/nav_reset_settings"-->
+            <!--android:icon="@drawable/ic_menu_reset"-->
+            <!--android:title="@string/action_settings_reset" />-->
+        <item
+            android:id="@+id/nav_language"
+            android:icon="@drawable/ic_menu_language"
+            android:title="@string/menu_laguage" />
+
+
+    </group>
+
+    <item android:title="@string/menu_more">
+        <menu>
+            <item
+                android:id="@+id/nav_user_guide"
+                android:icon="@drawable/ic_menu_user"
+                android:title="@string/menu_guide" />
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="@string/menu_share" />-->
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="@string/menu_about" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Restart Tools</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_settings_reset">Reset Default</string>
+
+
+    <string name="title_activity_main_ui">MainUI</string>
+    <string name="restart_to_power">ReStart Tools</string>
+    <string name="restart_count_running">Reboot count:</string>
+    <string name="remaining_count_running_count">100</string>
+    <string name="total_restart_count">Total Restart Count:</string>
+    <string name="time_min"> Min</string>
+    <string name="time_seconds"> S </string>
+    <string name="pls_input_count">Please input run count</string>
+    <string name="settings_count_number">Total Running Count:%1$d</string>
+    <string name="menu_laguage">Language Switch</string>
+    <string name="time_interval">Reboot Interval</string>
+    <string name="menu_about">About</string>
+    <string name="menu_warm">Warm</string>
+    <string name="nemu_confirm">Confirm</string>
+    <string name="warm_message">If need continue to running, pls set run count config in seetting screen. then try again.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_more">More</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_guide">User Guide</string>
+    <string name="menu_close">Close</string>
+    <string name="version_name"> V </string>
+    <string name="can_not_find_version_name"> </string>
+    <string name="sent_to"> via to</string>
+
+    <string name="help_dialog_text">
+    <b>Enter this Screen,the tools is Running to Reboot that using default set</b>
+    \n
+    \n
+    <b>If you have any question,please contact me!</b>
+        \n
+        \n
+         <i>Email: lambert.liu@nf-technology.com</i>
+</string>
+
+    <string name="about_text">
+        <b>    This app using system process </b><i> android:sharedUserId="android.uid.system"</i><b> so we need using system key.</b>\n
+        <b>    After you phone poer on, system will running the test by BroadcastReceiver .</b><i> intent.getAction().equals(android.intent.action.BOOT_COMPLETED)</i>\n
+        <b>    This app using user permission</b>"<i>android.permission.RECEIVE_BOOT_COMPLETED</i>"<b> and </b><i>android.permission.REBOOT</i>
+    </string>
+
+    <string name="about_qq">814380399</string>
+    <string name="about_email">lambert.liu</string>
+    <string name="qq_app_check">You Device not install QQ, Pls download from AppStore and try again.</string>
+
+    <string name="apply_for_permission">This APP need apply for phone State and Write exteranl storage permission</string>
+
+
+    <string name="network_setting">Network Settings</string>
+    <string name="network_notwork">Network is disable,Setting it now?</string>
+    <string name="menu_canncel">Cancel</string>
+</resources>

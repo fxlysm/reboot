@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReStart Test</string>
+    <string name="total_restart_count">O número total de reinicializações</string>
+    <string name="time_min">Min</string>
+    <string name="title_activity_main_ui">a interface principal</string>
+    <string name="settings_count_number">O número total de corridas:%1$d</string>
+    <string name="restart_to_power">Teste de estresse Restart</string>
+    <string name="restart_count_running">Contagem de reinicialização:</string>
+    <string name="remaining_count_running_count">100</string>
+    <string name="pls_input_count">Por favor, indique o número de execuções (não vazia)</string>
+    <string name="menu_laguage">idioma</string>
+    <string name="menu_about">em</string>
+    <string name="action_settings">Estabelecer</string>
+    <string name="version_name">V</string>
+    <string name="about_email">lambert.liu</string>
+    <string name="about_qq">814380399</string>
+    <string name="menu_canncel">Cancelar</string>
+    <string name="menu_close">Fechar</string>
+    <string name="menu_guide">Guia de usuario</string>
+    <string name="menu_more">Mais</string>
+    <string name="menu_share">Compartilhar</string>
+    <string name="menu_warm">Caloroso</string>
+    <string name="navigation_drawer_close">Feche a gaveta de navegação</string>
+    <string name="navigation_drawer_open">gaveta de navegação aberta</string>
+    <string name="nemu_confirm">Confirmar</string>
+    <string name="network_notwork">Rede está desativado, Defini-lo agora?</string>
+    <string name="network_setting">Configurações de rede</string>
+    <string name="qq_app_check">Você Dispositivo não instalar o QQ, Pls baixar a partir da App Store e tente novamente.</string>
+    <string name="sent_to">via para</string>
+    <string name="time_interval">reinicialização Interval</string>
+    <string name="time_seconds">S</string>
+    <string name="title_activity_main">MainUI</string>
+    <string name="warm_message">Se precisar de continuar a correr, pls set executar contagem config na tela de configuração. em seguida, tente novamente.</string>
+    <string name="apply_for_permission">Esta aplicação precisa aplicar para Estado telefone e gravação permissão de armazenamento externo</string>
+    <string name="about_text"><b> Este aplicativo usando processo do sistema </b> <i> android:. SharedUserId = "android.uid.system" </i> <b> Por isso, precisamos usar chave do sistema </b> \n <b> Depois seu telefone poer on, o sistema irá executar o teste por BroadcastReceiver. </b> <i> intent.getAction (). equals (android.intent.action.BOOT_COMPLETED) </i> \n <b> Este aplicativo usando a permissão do usuário </b> "<i> android.permission.RECEIVE_BOOT_COMPLETED </i>" <b> e </b> <i> android.permission.REBOOT </i></string>
+    <string name="help_dialog_text"><b> abre este ecrã, as ferramentas está em execução para reiniciar que o uso conjunto padrão </b> \n \n <b> Se você tem alguma dúvida, por favor contacte-me! </b> \n \n <i> E-mail : lambert.liu@nf-technology.com </i></string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">重启压力测试</string>
+    <string name="action_settings">设置</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_laguage">语言切换</string>
+    <string name="pls_input_count">请输入运行次数（不能为空）</string>
+    <string name="restart_count_running">重启次数：</string>
+    <string name="restart_to_power">重启压力测试工具</string>
+    <string name="settings_count_number">总运行次数：%1$d</string>
+    <string name="time_min">分钟</string>
+    <string name="title_activity_main_ui">主界面</string>
+    <string name="total_restart_count">总重启次数</string>
+    <string name="remaining_count_running_count">100</string>
+    <string name="menu_warm">温馨提示</string>
+    <string name="nemu_confirm">确定</string>
+    <string name="warm_message">当前设置的次数0或已完成测试！\n若需继续测试，请进入应用设置进行更改测试次数，返回主界面点击重新测试!</string>
+    <string name="menu_share">分享</string>
+    <string name="navigation_drawer_close">关闭侧菜单</string>
+    <string name="navigation_drawer_open">打开侧菜单</string>
+    <string name="title_activity_main">主界面</string>
+    <string name="menu_more">更多</string>
+    <string name="action_settings_reset">恢复默认</string>
+    <string name="menu_close">关闭</string>
+    <string name="menu_guide">使用说明</string>
+        <string name="help_dialog_text">
+
+
+
+    <b>启动本应用即开始运行循环重启工具！设置默认重启次数为100次，间隔时间为60秒，若需重新测试参数请进入设置界面设置。设置完成后点击保存并返回主界面，点击重测按钮请会重新测试！</b>
+    \n
+    \n
+    <b>有任何建议或者反馈可以随时联系作者</b>    \n
+    \n
+             <i>作者: lambert.liu@nf-technology.com</i>
+</string>
+
+      <string name="about_text">
+        <b>    本应用使用系统进程 </b><i> android:sharedUserId="android.uid.system"</i><b> 所以需对应用系统签名后才能正常运行。</b>\n
+        <b>    当手机完成重启后, 进程通过BroadcastReceiver广播机制检测自启动应用。</b><i> intent.getAction().equals(android.intent.action.BOOT_COMPLETED)</i>\n
+        <b>    所使用到的系统权限为：允许程序开机自动运行</b>"<i>android.permission.RECEIVE_BOOT_COMPLETED</i>"<b> 和 允许程序重新启动设备</b><i>android.permission.REBOOT</i>
+    </string>
+    <string name="about_email">刘勇</string>
+    <string name="about_qq">814380399</string>
+    <string name="can_not_find_version_name"> </string>
+    <string name="version_name">V</string>
+
+    <string name="apply_for_permission">本应用需读取手机状态及内部存储写入的权限</string>
+    <string name="sent_to"> 通过</string>
+    <string name="qq_app_check">设备未安装QQ,请到应用市场下载安装后重试</string>
+    <string name="network_setting">网络设置提示</string>
+    <string name="network_notwork">网络连接不可用,是否进行设置?</string>
+    <string name="menu_canncel">取消</string>
+    <string name="time_interval">重启间隔时间</string>
+    <string name="time_seconds">秒</string>
+</resources>
