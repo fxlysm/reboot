@@ -43,3 +43,18 @@ android.permission.REBOOT
     compile 'com.github.amlcurran.showcaseview:library:5.4.3'
     
 1.[Showcaseview](https://github.com/amlcurran/ShowcaseView)
+
+
+###系统签名
+目录
+    |-----signTools
+    |-----signTools\key\
+    |-----signTools\key\trooper_450L\
+    |-----signTools\key\trooper_450L\platform.pk8
+    |-----signTools\key\trooper_450L\platform.x509.pem
+    |-----signTools\javalib.jar
+    |-----signTools\reboot_unsign.apk
+    |-----signTools\Sign_apk.bat
+    
+若项目不为trooper_450L，可替换系统签名文件至|-----signTools\key\trooper_450L\目录后 双击Sign_apk.bat，即可生成已签名工具文件
+
